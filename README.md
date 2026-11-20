@@ -1,4 +1,4 @@
-# College Management System
+<h1 align="center"><img src="docs/images/banner.svg" alt="College Management System: PHP and MySQL college management web app."></h1>
 
 > PHP and MySQL web app for managing college students, faculty, attendance and posts.
 
@@ -46,6 +46,10 @@ Collage_managment_system-master/
   css/ images/               Assets
   index.php                  Login entry point
 ```
+
+## Status
+
+Legacy / archived-in-spirit: kept for reference, not under active development. No CI is configured and dependencies are not updated; do not deploy as-is.
 
 ## Security
 
